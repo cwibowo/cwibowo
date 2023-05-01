@@ -1,2 +1,1 @@
 - 👋 Hi, I’m @cwibowo
-- 🌱 I’m currently learning Go
